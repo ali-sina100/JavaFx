@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../IntelliJ IDEA Community Edition 2021.3.2/jbox2d-master/jbox2d-jni-broadphase/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../IntelliJ IDEA Community Edition 2021.3.2/jbox2d-master/jbox2d-jni-broadphase/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../IntelliJ IDEA Community Edition 2021.3.2/jbox2d-master/jbox2d-library/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../IntelliJ IDEA Community Edition 2021.3.2/jbox2d-master/jbox2d-library/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../IntelliJ IDEA Community Edition 2021.3.2/jbox2d-master/jbox2d-serialization/src/generated" />
+      <root url="file://$PROJECT_DIR$/../../IntelliJ IDEA Community Edition 2021.3.2/jbox2d-master/jbox2d-serialization/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../IntelliJ IDEA Community Edition 2021.3.2/jbox2d-master/jbox2d-testbed-javafx/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../IntelliJ IDEA Community Edition 2021.3.2/jbox2d-master/jbox2d-testbed-jogl/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../IntelliJ IDEA Community Edition 2021.3.2/jbox2d-master/jbox2d-testbed/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
